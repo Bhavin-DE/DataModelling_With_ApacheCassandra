@@ -35,7 +35,7 @@ UserId int
 ## Project Details:
 1) Combine all source files into single csv file
 2) Create Apache Cassandra tables for each of the query
-3) Insert selected rows from csv into Apache Cassandra tables
+3) Insert selected columns from csv into Apache Cassandra tables
 4) Create and run select queries for each of these tables to answer questions
 5) Drop tables
 
